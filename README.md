@@ -26,3 +26,7 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
 
 ![Browser](https://github.com/user-attachments/assets/a2e82908-e2d0-4667-bbb0-190d34966b15)
 
+### Home Page - Mobile
+
+![Mobile](https://github.com/user-attachments/assets/34827350-4f5c-43bd-a981-cf5226facee1)
+
