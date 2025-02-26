@@ -21,3 +21,8 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
 
 
 ## Wireframes
+
+### Home Page - Browser
+
+![Browser](https://github.com/user-attachments/assets/a2e82908-e2d0-4667-bbb0-190d34966b15)
+
