@@ -7,6 +7,7 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
 1. [Planning](#Planning)
    * [User Stories](#UserStories)
    * [Wireframes](#Wireframes)
+   * [Colour Scheme](#ColourScheme)
 
 
 
@@ -41,6 +42,12 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
 ### Quiz Score Page
 
 ![Quiz Completion](https://github.com/user-attachments/assets/f385d836-d280-40e3-a3af-49c1ac4e5011)
+
+
+## Colour Scheme
+
+![Colour Scheme (1)](https://github.com/user-attachments/assets/67bdc5ec-ed51-4886-ba5c-a8116e6c1e39)
+
 
 
 
