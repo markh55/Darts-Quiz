@@ -34,4 +34,9 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
 
 ![Tablet](https://github.com/user-attachments/assets/4d80089a-207c-4db7-a3ff-1f95a438db60)
 
+### Error Message
+
+![Error Message](https://github.com/user-attachments/assets/0765437b-b465-4dbc-be91-32ecbe05d892)
+
+
 
