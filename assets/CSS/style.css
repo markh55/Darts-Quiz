@@ -24,3 +24,7 @@ body {
     margin-right: auto;
     padding: 1%;
 }
+
+#next-btn {
+  background-color: #EAE4D7;
+}
