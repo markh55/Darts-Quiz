@@ -13,7 +13,7 @@ body {
     background-color: #00138f;
 }
   
-.question-box {
+#question-container {
   background-color: #EAE4D7;
     box-sizing: border-box;
     width: 85%;
