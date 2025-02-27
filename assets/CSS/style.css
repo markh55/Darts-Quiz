@@ -17,9 +17,9 @@ body {
   background-color: #EAE4D7;
     box-sizing: border-box;
     width: 85%;
-    height: 65vh;
+    height: 100vh;
     max-height: 450px;
-    max-width: 830px;
+    max-width: 75%;
     margin-left: auto;
     margin-right: auto;
     padding: 1%;
@@ -33,4 +33,7 @@ body {
   background-color: #EAE4D7;
   display: block;
   margin: auto;
+  padding: 1rem;
+  border: none;
+  border-radius: 0.5rem 0.5rem 0.5rem;
 }
