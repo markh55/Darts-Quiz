@@ -13,3 +13,14 @@ body {
     background-color: #00138f;
 }
   
+.question-box {
+  background-color: #EAE4D7;
+    box-sizing: border-box;
+    width: 85%;
+    height: 65vh;
+    max-height: 450px;
+    max-width: 830px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+}
