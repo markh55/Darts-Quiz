@@ -46,7 +46,7 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
 
 ## Colour Scheme
 
-![Colour Scheme (1)](https://github.com/user-attachments/assets/67bdc5ec-ed51-4886-ba5c-a8116e6c1e39)
+![Colour Scheme (1)](https://github.com/user-attachments/assets/cd1dc397-8f25-4ebd-94d6-951f465df956)
 
 
 
