@@ -24,6 +24,11 @@ body {
   text-align: left;
 }
 
+.btn:hover {
+  font-weight: bold;
+
+}
+
 .heading, .score-area {
    display: flex;
   justify-content: center;
