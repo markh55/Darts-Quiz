@@ -29,6 +29,11 @@ body {
   text-align: center;
 }
 
+.btn {
+  display: block;
+  margin: auto;
+}
+
 #next-btn {
   background-color: #EAE4D7;
   display: block;
