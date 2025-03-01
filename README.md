@@ -82,8 +82,10 @@ root. Save.
 
 ## DeBugging
 
+I can see my page is not working as intended so i checked my code in Dev Tools & cans see the below errors on line 45 and 47 in my script.js file, as part of my code i have put 'answerButton' but this is not definded beacuse the function should be 'answerButtons' this have now been amended and my answer buttons are showing. 
 
 
+<img width="1309" alt="Screenshot 2025-02-28 at 23 56 38" src="https://github.com/user-attachments/assets/edb986f9-d769-49e7-b966-7454ce56bcd4" />
 
 
-
+<img width="384" alt="Screenshot 2025-03-01 at 00 05 42" src="https://github.com/user-attachments/assets/9edb800a-f5f1-417d-83df-fa6abb467279" />
