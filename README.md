@@ -9,8 +9,9 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
    * [Wireframes](#Wireframes)
    * [Colour Scheme](#ColourScheme)
 2. [Deployment](#Deployment)
-3. [DeBugging](#DeBugging)
-4. [Project Link](#ProjectLink)
+3. [Testing](#Testing)
+4. [DeBugging](#DeBugging)
+5. [Project Link](#ProjectLink)
 
 
 
@@ -79,6 +80,8 @@ root. Save.
 
 
 <img width="1800" alt="Screenshot 2025-02-28 at 23 45 51" src="https://github.com/user-attachments/assets/14392f30-b37e-455b-a424-72560bec3c67" />
+
+## Testing 
 
 
 ## DeBugging
