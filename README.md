@@ -11,7 +11,8 @@ The aim of the Darts-Quiz is to test your knowledge about the darts, but at the 
 2. [Deployment](#Deployment)
 3. [Testing](#Testing)
 4. [DeBugging](#DeBugging)
-5. [Project Link](#ProjectLink)
+5. [Technologies Used](#TechnologiesUsed)
+6. [Project Link](#ProjectLink)
 
 
 
@@ -93,6 +94,18 @@ I can see my page is not working as intended so i checked my code in Dev Tools &
 
 
 <img width="384" alt="Screenshot 2025-03-01 at 00 05 42" src="https://github.com/user-attachments/assets/9edb800a-f5f1-417d-83df-fa6abb467279" />
+
+
+## Technologies Used
+
+### Technology
+  * Github
+  * VSCode
+
+### Languages
+  * HTML
+  * CSS
+  * Javascript
 
 ## Project Link
 
