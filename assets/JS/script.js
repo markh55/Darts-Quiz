@@ -42,7 +42,7 @@ function showQuestion(){
 
     currentQuestion.answers.forEach(answers => {
         const button = document.createElement("button");
-        button.innerHTML = answerButtons.text;
+        button.innerHTML = answers.text;
         button.classList.add("btn");
         answerButtons.appendChild(button);
     });
