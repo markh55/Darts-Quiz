@@ -8,6 +8,16 @@ const questions = [
             {text: "T20-T20-D20", correct: false},
         ]
     },
+
+    {
+        question: "How many world titles does Michael van Gerwen have?",
+        answers: [
+            { text: "5", correct: false },
+            { text: "1", correct: false },
+            { text: "0", correct: false },
+            { text: "3", correct: true },
+        ]
+    },
 ];
 
 const questionElement = document.getElementById("question");
@@ -22,6 +32,7 @@ function startQuiz() {
     score = 0;
     nextButton.innerHTML = "Next";
     nextButton.style.display = "none";
+    nextButton.onclick = nextQuestion;
     showQuestion();
 }
 
@@ -58,7 +69,7 @@ function selectAnswer(e) {
 
     if (isCorrect) {
         selectedBtn.classList.add("correct");
-        score++;  // 
+        score++; 
     } else {
         selectedBtn.classList.add("incorrect");
     }
