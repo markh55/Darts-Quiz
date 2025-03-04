@@ -8,7 +8,6 @@ const questions = [
             {text: "T20-T20-D20", correct: false},
         ]
     },
-
     {
         question: "How many world titles does Michael van Gerwen have?",
         answers: [
@@ -18,6 +17,15 @@ const questions = [
             { text: "3", correct: true },
         ]
     },
+    {
+        question: "What is the highest possible checkout in darts?",
+        answers: [
+            { text: "180", correct: false },
+            { text: "170", correct: true },
+            { text: "160", correct: false },
+            { text: "150", correct: false },
+        ]
+    }
 ];
 
 const questionElement = document.getElementById("question");
@@ -91,6 +99,6 @@ function nextQuestion() {
     }
 }
 
-nextButton.addEventListener("click", nextQuestion);
+nextButton.onclick = startQuiz;
 
 startQuiz();
