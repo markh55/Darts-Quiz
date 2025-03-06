@@ -82,7 +82,7 @@ function selectAnswer(e) {
         selectedBtn.classList.add("incorrect");
     }
 
-    nextButton.style.display = "block";  // 
+    nextButton.style.display = "block";
 }
 
 function nextQuestion() {
@@ -95,7 +95,9 @@ function nextQuestion() {
         answerButtons.innerHTML = "";
         nextButton.innerHTML = "Restart";
         nextButton.style.display = "block";
-        nextButton.addEventListener("click", startQuiz);
+        nextButton.addEventListener("click", () => {
+            window.location.reload();
+        } );
     }
 }
 
