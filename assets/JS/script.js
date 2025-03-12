@@ -25,7 +25,46 @@ const questions = [
             { text: "160", correct: false },
             { text: "150", correct: false },
         ]
-    }
+    },
+    {
+        question: "Who won the PDC World Championship on their debut appearance in 2018?",
+        answers: [
+            { text: "Nathan Aspinall", correct: false },
+            { text: "Glen Durrant", correct: false },
+            { text: "Rob Cross", correct: true },
+            { text: "Dimitri Van Den Bergh", correct: false },
+        ]
+    },
+    {
+        question: "Which player is nicknamed “Bully Boy",
+        answers: [
+            { text: "Nathan Aspinall", correct: false },
+            { text: "Joe Cullen", correct: false },
+            { text: "Jonny Clayton", correct: false },
+            { text: "Michael Smith", correct: true },
+        ]
+    },
+    {
+        question: "Which player is known for his intense stare at the dartboard and aggressive celebrations?",
+        answers: [
+            { text: "Adrian Lewis", correct: false },
+            { text: "Gerwyn Price", correct: true },
+            { text: "Jonny Clayton", correct: false },
+            { text: "Danny Noppert", correct: false },
+        ]
+    },
+    {
+    question: "What is the standard height from the floor to the bullseye in professional darts?",
+    answers: [
+        { text: "5 feet 4 inches", correct: false },
+        { text: "6 feet", correct: false },
+        { text: "4 feet 10 inches", correct: false },
+        { text: "5 feet 8 inches", correct: true },
+    ]
+},
+
+    
+    
 ];
 
 const questionElement = document.getElementById("question");
